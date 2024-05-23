@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Ultimate AI Chat
-Description: Affiche un chat IA intelligent.
-Version: 1.0
+Plugin Name: AI E-commerce Assistant
+Description: Intégrez un assistant IA à votre site e-commerce et boostez vos conversions.
+Version: 1.1
 Author: Martin SCAURI
 */
 

@@ -22,7 +22,7 @@ function chat_widget_add_icon() {
     ?>
     <div id="chat-widget-icon" class="chat-widget-icon"></div>
     <div id="chat-widget-modal" class="chat-widget-modal">
-        <iframe src="https://iframechatms.netlify.app/" width="100%" height="100%" frameborder="0"></iframe>
+        <iframe src="#" width="100%" height="100%" frameborder="0"></iframe>
     </div>
     <?php
 }

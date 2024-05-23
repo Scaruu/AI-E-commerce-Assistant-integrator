@@ -3,6 +3,10 @@
   position: fixed;
   right: 10px;
   z-index: 1000;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .chat-widget-icon {
